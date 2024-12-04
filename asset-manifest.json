@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assignment_rbac_system/static/css/main.98bb087f.chunk.css",
+    "main.js": "/Assignment_rbac_system/static/js/main.773d6344.chunk.js",
+    "main.js.map": "/Assignment_rbac_system/static/js/main.773d6344.chunk.js.map",
+    "runtime~main.js": "/Assignment_rbac_system/static/js/runtime~main.572ee363.js",
+    "runtime~main.js.map": "/Assignment_rbac_system/static/js/runtime~main.572ee363.js.map",
+    "static/js/2.f841ee14.chunk.js": "/Assignment_rbac_system/static/js/2.f841ee14.chunk.js",
+    "static/js/2.f841ee14.chunk.js.map": "/Assignment_rbac_system/static/js/2.f841ee14.chunk.js.map",
+    "index.html": "/Assignment_rbac_system/index.html",
+    "precache-manifest.e5d429250b8674eb5c249f73dc36d290.js": "/Assignment_rbac_system/precache-manifest.e5d429250b8674eb5c249f73dc36d290.js",
+    "service-worker.js": "/Assignment_rbac_system/service-worker.js",
+    "static/css/main.98bb087f.chunk.css.map": "/Assignment_rbac_system/static/css/main.98bb087f.chunk.css.map"
+  }
+}
