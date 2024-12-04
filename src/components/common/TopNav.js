@@ -15,7 +15,7 @@ function TopNav(props) {
 	return (
 		<div className={`w3-bar w3-padding w3-card ${props.className}`} >
 			<div className="w3-display-topleft w3-padding-large w3-xlarge">
-			VRV Intern Assignment
+				VRV Intern Assignment
 			</div>
 			<div className="w3-right">
 				{props.routes.map(({ path, title }) => (
